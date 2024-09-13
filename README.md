@@ -16,15 +16,13 @@ Service Market is an online platform that helps individuals showcase and sell th
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
+   
    git clone https://github.com/yourusername/service-market.git
 
-   Navigate to the project directory:
-bash
+2. Navigate to the project directory:
 
 cd service-market
 Install dependencies:
-bash
 
 # For the frontend (React)
 cd frontend
@@ -34,7 +32,7 @@ npm install
 cd ../backend
 pip install -r requirements.txt
 Start the development servers:
-bash
+
 
 # Frontend
 cd frontend
