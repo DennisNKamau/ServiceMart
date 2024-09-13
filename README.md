@@ -20,9 +20,10 @@ To run this project locally, follow these steps:
    git clone https://github.com/yourusername/service-market.git
 
 2. Navigate to the project directory:
-
 cd service-market
-Install dependencies:
+
+
+3. Install dependencies:
 
 # For the frontend (React)
 cd frontend
@@ -31,9 +32,8 @@ npm install
 # For the backend (Flask)
 cd ../backend
 pip install -r requirements.txt
-Start the development servers:
 
-
+4. Start the development servers:
 # Frontend
 cd frontend
 npm start
@@ -42,12 +42,13 @@ npm start
 cd ../backend
 flask run
 
-Usage
-Sign up as a service provider or client.
-Create a profile to showcase your skills or services.
-Browse through available services or providers.
-Connect, negotiate, and complete transactions securely through the platform.
-Contributing
+USAGE
+1. Sign up as a service provider or client.
+2. Create a profile to showcase your skills or services.
+3. Browse through available services or providers.
+4. Connect, negotiate, and complete transactions securely through the platform.
+
+CONTRIBUTING
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 License
@@ -58,8 +59,6 @@ For any questions or suggestions, please reach out to [your.email@example.com].
 
 Thank you for using Service Market! We hope it helps you grow your business and connect with amazing clients.
 
-vbnet
-Copy code
 
 Feel free to customize sections like "Features" and "Usage" to fit your application's specifics better. Let me know if there's anything else you'd like to include!
 
