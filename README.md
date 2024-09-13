@@ -51,10 +51,12 @@ USAGE
 CONTRIBUTING
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-License
+LICENSE
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+CONTACT
+
 For any questions or suggestions, please reach out to [your.email@example.com].
 
 Thank you for using Service Market! We hope it helps you grow your business and connect with amazing clients.
