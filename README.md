@@ -18,3 +18,29 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/service-market.git
+
+   Navigate to the project directory:
+bash
+
+cd service-market
+Install dependencies:
+bash
+
+# For the frontend (React)
+cd frontend
+npm install
+
+# For the backend (Flask)
+cd ../backend
+pip install -r requirements.txt
+Start the development servers:
+bash
+
+# Frontend
+cd frontend
+npm start
+
+# Backend
+cd ../backend
+flask run
+
