@@ -1,0 +1,246 @@
+{
+    "jobs": [
+      {
+  
+        "id": "1",
+        "title": "Software Developer",
+        "description": "We are seeking a talented software developer to join our team and contribute to the development of innovative software solutions.",
+        "company": "Tech Solutions Ltd",
+        "location": "Nairobi",
+        "date_posted": "2024-05-07"
+      },
+      {
+        "id": "2",
+        "title": "Marketing Director",
+        "description": "Join our marketing team to promote our products/services and execute marketing campaigns to drive business growth.",
+        "company": "Marketing Masters Inc",
+        "location": "Mombasa",
+        "date_posted": "2024-05-06"
+      },
+      {
+        "id": "3",
+        "title": "Financial Analyst",
+        "description": "Seeking a financial analyst to analyze financial data and provide insights to support decision-making processes.",
+        "company": "Finance Experts Ltd",
+        "location": "Kisumu",
+        "date_posted": "2024-05-05"
+      },
+      {
+        "id": "4",
+        "title": "Graphic Designer",
+        "description": "We are hiring a creative graphic designer to design visually appealing graphics for our marketing materials and products.",
+        "company": "Design Innovations Inc",
+        "location": "Eldoret",
+        "date_posted": "2024-05-04"
+      },
+      {
+        "id": "5",
+        "title": "IT Support Specialist",
+        "description": "Provide technical support and assistance to our clients to ensure smooth operation of IT systems and services.",
+        "company": "IT Solutions Ltd",
+        "location": "Nakuru",
+        "date_posted": "2024-05-03"
+      },
+      {
+        "id": "6",
+        "title": "Human Resources Officer",
+        "description": "Join our HR team to handle recruitment, employee relations, and other HR functions to support the organization's objectives.",
+        "company": "HR Solutions Ltd",
+        "location": "Kisii",
+        "date_posted": "2024-05-02"
+      },
+      {
+        "id": "7",
+        "title": "Sales Representative",
+        "description": "Seeking a dynamic sales representative to drive sales and expand our customer base in the Kenyan market.",
+        "company": "Sales Pro Ltd",
+        "location": "Thika",
+        "date_posted": "2024-05-01"
+      },
+      {
+        "id": "8",
+        "title": "Customer Support Associate",
+        "description": "Provide excellent customer support and resolve customer issues in a timely and efficient manner.",
+        "company": "Customer Care Inc",
+        "location": "Machakos",
+        "date_posted": "2024-04-30"
+      },
+      {
+        "id": "9",
+        "title": "Project Manager",
+        "description": "Manage and oversee various projects to ensure they are completed on time, within budget, and meet quality standards.",
+        "company": "Project Management Solutions Ltd",
+        "location": "Kakamega",
+        "date_posted": "2024-04-29"
+      },
+      {
+        "id": "10",
+        "title": "Accountant",
+        "description": "We are hiring an accountant to manage financial transactions, prepare financial reports, and ensure compliance with accounting standards.",
+        "company": "Financial Experts Ltd",
+        "location": "Kitale",
+        "date_posted": "2024-04-28"
+      },
+      {
+        "id": "11",
+        "title": "Farm Manager",
+        "description": "Manage day-to-day operations of the farm including crop production, livestock management, and staff supervision.",
+        "company": "Green Fields Farms Ltd",
+        "location": "Nairobi",
+        "date_posted": "2024-05-07"
+      },
+      {
+        "id": "12",
+        "title": "Registered Nurse",
+        "description": "Provide nursing care to patients, administer medications, and assist doctors in medical procedures.",
+        "company": "Coastal Medical Center",
+        "location": "Mombasa",
+        "date_posted": "2024-05-06"
+      },
+      {
+        "id": "13",
+        "title": "Math Teacher",
+        "description": "Teach mathematics to secondary school students, prepare lesson plans, and assess student progress.",
+        "company": "Lakeview High School",
+        "location": "Kisumu",
+        "date_posted": "2024-05-05"
+      },
+      {
+        "id": "14",
+        "title": "Hotel Manager",
+        "description": "Oversee all aspects of hotel operations including guest services, staff management, and financial performance.",
+        "company": "Eldoret Grand Hotel",
+        "location": "Eldoret",
+        "date_posted": "2024-05-04"
+      },
+      {
+        "id": "15",
+        "title": "Agricultural Extension Officer",
+        "description": "Provide extension services to farmers, offer technical advice, and promote modern farming practices.",
+        "company": "Nakuru Agricultural Department",
+        "location": "Nakuru",
+        "date_posted": "2024-05-03"
+      },
+      {
+        "id": "16",
+        "title": "Pharmacist",
+        "description": "Dispense medications, counsel patients on proper medication use, and manage pharmacy inventory.",
+        "company": "Kisii Pharmaceuticals",
+        "location": "Kisii",
+        "date_posted": "2024-05-02"
+      },
+      {
+        "id": "17",
+        "title": "English Teacher",
+        "description": "Teach English language and literature to secondary school students, develop curriculum, and assess student performance.",
+        "company": "Thika Academy",
+        "location": "Thika",
+        "date_posted": "2024-05-01"
+      },
+      {
+        "id": "18",
+        "title": "Restaurant Manager",
+        "description": "Manage restaurant operations, including staffing, customer service, and financial management.",
+        "company": "Machakos Bistro",
+        "location": "Machakos",
+        "date_posted": "2024-04-30"
+      },
+      {
+        "id": "19",
+        "title": "Agricultural Technician",
+        "description": "Provide technical support to farmers, troubleshoot agricultural machinery, and assist in crop management.",
+        "company": "Kakamega Agricultural Services",
+        "location": "Kakamega",
+        "date_posted": "2024-04-29"
+      },
+      {
+        "id": "20",
+        "title": "Dentist",
+        "description": "Diagnose and treat dental issues, perform dental procedures, and educate patients on oral health.",
+        "company": "Kitale Dental Clinic",
+        "location": "Kitale",
+        "date_posted": "2024-04-28"
+      },
+      {
+        "id": "21",
+        "title": "Crop Scientist",
+        "description": "Conduct research on crops, develop new varieties, and advise farmers on crop management practices.",
+        "company": "AgroTech Research Institute",
+        "location": "Nairobi",
+        "date_posted": "2024-05-07"
+      },
+      {
+        "id": "22",
+        "title": "Pediatrician",
+        "description": "Provide medical care to infants, children, and adolescents, diagnose illnesses, and prescribe treatment.",
+        "company": "Coastal Pediatric Clinic",
+        "location": "Mombasa",
+        "date_posted": "2024-05-06"
+      },
+      {
+        "id": "23",
+        "title": "Science Teacher",
+        "description": "Teach science subjects such as biology, chemistry, or physics to secondary school students.",
+        "company": "Kisumu High School",
+        "location": "Kisumu",
+        "date_posted": "2024-05-05"
+      },
+      {
+        "id": "24",
+        "title": "Front Office Manager",
+        "description": "Oversee front desk operations, handle guest inquiries, and ensure smooth check-in and check-out processes.",
+        "company": "Eldoret Hospitality Group",
+        "location": "Eldoret",
+        "date_posted": "2024-05-04"
+      },
+      {
+        "id": "25",
+        "title": "Veterinarian",
+        "description": "Diagnose and treat illnesses in animals, perform surgeries, and provide preventive care.",
+        "company": "Nakuru Veterinary Clinic",
+        "location": "Nakuru",
+        "date_posted": "2024-05-03"
+      },
+      {
+        "id": "26",
+        "title": "School Principal",
+        "description": "Provide leadership and management to the school, oversee academic programs, and foster a positive learning environment.",
+        "company": "Kisii International School",
+        "location": "Kisii",
+        "date_posted": "2024-05-02"
+      },
+      {
+        "id": "27",
+        "title": "Catering Manager",
+        "description": "Plan and coordinate catering services for events, manage staff, and ensure high-quality food and service.",
+        "company": "Thika Catering Services",
+        "industry": "Hospitality",
+        "location": "Thika",
+        "date_posted": "2024-04-30"
+      },
+      {
+        "id": "28",
+        "title": "Agronomist",
+        "description": "Provide technical expertise on crop production, soil management, and pest control to farmers.",
+        "company": "Machakos AgriConsult",
+        "location": "Machakos",
+        "date_posted": "2024-04-30"
+      },
+      {
+        "id": "29",
+        "title": "Nurse Practitioner",
+        "description": "Provide primary healthcare services, diagnose and treat illnesses, and prescribe medications.",
+        "company": "Kakamega Medical Clinic",
+        "location": "Kakamega",
+        "date_posted": "2024-04-29"
+      },
+      {
+        "id": "30",
+        "title": "Special Education Teacher",
+        "description": "Teach students with special needs, develop individualized education plans, and collaborate with other professionals.",
+        "company": "Kitale Special Education Center",
+        "location": "Kitale",
+        "date_posted": "2024-04-28"
+      }
+    ]
+  }
