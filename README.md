@@ -11,6 +11,14 @@ Service Market is an online platform that helps individuals showcase and sell th
 - **Rating and Reviews**: Build credibility with client feedback.
 - **Search and Filter**: Find services or providers that match your needs.
 
+## Technologies Used
+
+- React: Frontend framework for building user interfaces.
+- React Router: For managing client-side routing.
+- Axios: HTTP client for making requests to the server.
+- json-server: Mock RESTful API for storing and retrieving job listings.
+- Semantic UI: UI framework for styling components.
+
 ## Installation
 
 To run this project locally, follow these steps:
