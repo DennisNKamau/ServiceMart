@@ -1,4 +1,4 @@
-# ServiceMart
+# ServiceMart.
 # Service Market
 
 Service Market is an online platform that helps individuals showcase and sell their services and skills to a broader audience. Whether you're a freelancer, consultant, or service provider, Service Market connects you with clients looking for your expertise.
